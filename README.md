@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em me tornar fullstack.
 
 ## 📌 Projetos em Destaque
 
-🔹 [Minha primeiro blog pessoal](https://github.com/MatthLB/PS-include-engenharia)  
+🔹 [Meu primeiro blog pessoal](https://github.com/MatthLB/PS-include-engenharia)  
 Aqui foi quando participei do processo seletivo da Include Engenharia, onde o primeiro desafio foi criar um blog para me apresentar para eles.
 
 🔹 [Trabalho de conclusão de curso](https://github.com/MatthLB/Site-para-gestao-do-lab-de-manuten-do-IFRN---Campus-Canguaretama-)  
